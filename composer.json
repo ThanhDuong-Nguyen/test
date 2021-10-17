@@ -1,0 +1,10 @@
+{
+    "name": "app/mvc",
+    "description": "Một mô hình MVC từ Khoa Phạm",
+    "autoload": {
+        "psr-4": {
+            "Core\\"    : "Core/",
+            "App\\"     : "App/"
+        }
+    }
+}
